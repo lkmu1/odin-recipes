@@ -22,4 +22,4 @@ Upon completion, I will have demonstrated my usage of skills in Git and HTML suc
 
 • Incorporation of HTML elements and attributes into my code
 
-• Operating uesful applications to construct and manage strings of code
+• Operating useful applications to construct and manage strings of code
